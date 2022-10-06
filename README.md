@@ -11,5 +11,3 @@ LOGIN ACCOUNT
 **Mahasiswa Session**
 - email    : ikomdoank@gmail.com
 - password : mahasiswa
-
-![This is an image](https://github.com/ikom-pedia/SIMANJA/assets/uploads/foto/dashboard.png)
