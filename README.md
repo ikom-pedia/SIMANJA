@@ -2,12 +2,13 @@
 Sistem Informasi Magang dan Kerja
 
 
-## LOGIN ACCOUNT ##
-// Admin Session
-email    : admin@gmail.com
-password : admin
+LOGIN ACCOUNT
+**Admin Session**
+- email    : admin@gmail.com
+- password : admin
 
-// Mahasiswa Session
-email    : ikomdoank@gmail.com
-password : mahasiswa
+**Mahasiswa Session**
+- email    : ikomdoank@gmail.com
+- password : mahasiswa
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
